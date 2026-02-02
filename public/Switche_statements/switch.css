@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #f1d79d;
+
+}
+
+.main{
+
+text-align: center;
+margin-top: 10%;
+display: flex;
+justify-content: center;
+
+
+
+}
+.hero{
+    width: 31%;
+    height: 20%;
+    background: #8180a3;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+.xv{
+
+    margin-top: 5%;
+ width: 220px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background: #8de0d0;
+    font-size: 1.1rem; 
+cursor: pointer;
+
+
+}
+
+.xv:hover{
+    background: #93e071;
+    transition: .2s; 
+
+}
+
+h2{
+    color: white;
+}
+
+input{
+    width: 70%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+text-align: center;
+
+
+
+
+}
+

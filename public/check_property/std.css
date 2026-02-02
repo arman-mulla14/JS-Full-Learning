@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.hero{
+
+margin-top: 5%;
+margin-left: 20px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+label{
+    font-size: 1.2rem;
+}
+
+button{
+    width: 220px;
+    margin-left: 1.2%;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #8aecdf;
+border: none;
+margin-top: 20px;
+cursor: pointer;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+
+button:hover{
+    
+    background: #9fec9a;
+    transition: .2s;
+
+}
+
+p{
+    font-size: 1.4rem;
+}
