@@ -1,0 +1,54 @@
+body{
+
+    margin: 0;
+    padding: 0;
+
+    text-align: center;
+    background: #000;
+}
+
+.main{
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20vb;
+}
+.hero{
+    width: 25%;
+    background: #86d2c7;
+    height:250px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+
+  
+}
+
+input{
+    margin-top: 15%;
+    width: 90%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+}
+button{
+
+    cursor: pointer;
+margin-top: 5%;
+font: 20px;
+width: 50%;
+height: 35px;
+border: none;
+border-radius: 10px;
+}
+
+button:hover{
+    background: #a3f28b;
+    transition: .2s;
+}
+
+input:hover{
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
