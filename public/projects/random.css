@@ -1,0 +1,39 @@
+    body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+    }
+
+    #Roll{
+    font: 4em;
+    padding: 5px 25px;
+    width: 150px;
+    background: #7be89c;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+
+    }
+
+    #Roll:hover{
+    background: #8096d5;
+    transition: .2s;
+    }
+
+
+    #label
+        {
+
+        font: 4em;
+        color: goldenrod;  
+            
+        }
+
+        .main{
+        text-align: center;
+        margin-top: 20%;
+
+        }
